@@ -1,0 +1,12 @@
+{
+  "ServiceName": "charisad.checkout.api",
+  "Host": "otel.internal.charisad.com",
+  "Port": 4317,
+  "Protocol": "http",
+  "ShowConsoleMetrics": false,
+  "ShowConsoleTrace": true,
+  "ExtraResourceAttributes": {
+    "product.category": "data.services",
+    "product.team": "platform.product"
+  }
+}
