@@ -6,7 +6,7 @@
   "ShowConsoleMetrics": false,
   "ShowConsoleTrace": true,
   "ExtraResourceAttributes": {
-    "product.category": "data.services",
-    "product.team": "platform.product"
+    "product.category": "Cloud",
+    "product.team": "coreproduct"
   }
 }
